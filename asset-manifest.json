@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestion_panier/static/css/main.f687d332.css",
+    "main.js": "/gestion_panier/static/js/main.86cc40c8.js",
+    "static/js/787.376dd23b.chunk.js": "/gestion_panier/static/js/787.376dd23b.chunk.js",
+    "index.html": "/gestion_panier/index.html",
+    "main.f687d332.css.map": "/gestion_panier/static/css/main.f687d332.css.map",
+    "main.86cc40c8.js.map": "/gestion_panier/static/js/main.86cc40c8.js.map",
+    "787.376dd23b.chunk.js.map": "/gestion_panier/static/js/787.376dd23b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f687d332.css",
+    "static/js/main.86cc40c8.js"
+  ]
+}
