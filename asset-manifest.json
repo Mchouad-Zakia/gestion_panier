@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mchouad-Zakia/gestion_panier/static/css/main.f687d332.css",
-    "main.js": "/Mchouad-Zakia/gestion_panier/static/js/main.33a05460.js",
-    "static/js/787.376dd23b.chunk.js": "/Mchouad-Zakia/gestion_panier/static/js/787.376dd23b.chunk.js",
-    "index.html": "/Mchouad-Zakia/gestion_panier/index.html",
-    "main.f687d332.css.map": "/Mchouad-Zakia/gestion_panier/static/css/main.f687d332.css.map",
-    "main.33a05460.js.map": "/Mchouad-Zakia/gestion_panier/static/js/main.33a05460.js.map",
-    "787.376dd23b.chunk.js.map": "/Mchouad-Zakia/gestion_panier/static/js/787.376dd23b.chunk.js.map"
+    "main.css": "/gestion_panier/static/css/main.f687d332.css",
+    "main.js": "/gestion_panier/static/js/main.86cc40c8.js",
+    "static/js/787.376dd23b.chunk.js": "/gestion_panier/static/js/787.376dd23b.chunk.js",
+    "index.html": "/gestion_panier/index.html",
+    "main.f687d332.css.map": "/gestion_panier/static/css/main.f687d332.css.map",
+    "main.86cc40c8.js.map": "/gestion_panier/static/js/main.86cc40c8.js.map",
+    "787.376dd23b.chunk.js.map": "/gestion_panier/static/js/787.376dd23b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f687d332.css",
-    "static/js/main.33a05460.js"
+    "static/js/main.86cc40c8.js"
   ]
 }
